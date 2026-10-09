@@ -14,6 +14,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
+| [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -27,4 +28,17 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
+| [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
