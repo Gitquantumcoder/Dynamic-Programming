@@ -16,6 +16,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0091-decode-ways](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -30,6 +31,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -39,8 +41,14 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
