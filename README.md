@@ -19,6 +19,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0416-partition-equal-subset-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,12 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
