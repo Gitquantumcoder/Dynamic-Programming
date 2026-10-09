@@ -13,6 +13,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -22,4 +23,8 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 <!---LeetCode Topics End-->
