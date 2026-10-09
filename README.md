@@ -13,6 +13,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
@@ -32,6 +33,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 ## Knapsack Problem
 |  |
