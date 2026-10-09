@@ -41,6 +41,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0091-decode-ways](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,4 +67,12 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
