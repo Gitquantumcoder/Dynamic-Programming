@@ -11,6 +11,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Breadth-First Search
 |  |
@@ -77,6 +79,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Enumeration
 |  |
 | ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Binary Search
 |  |
@@ -96,4 +99,12 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+## Hash Table
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
+## Counting
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
