@@ -10,6 +10,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
