@@ -37,6 +37,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -84,10 +85,12 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
