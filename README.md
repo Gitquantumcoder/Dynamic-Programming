@@ -12,6 +12,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
