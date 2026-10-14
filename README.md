@@ -63,6 +63,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -134,4 +135,16 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
