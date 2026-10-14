@@ -12,6 +12,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0509-fibonacci-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0509-fibonacci-number) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,28 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
+## Simulation
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
