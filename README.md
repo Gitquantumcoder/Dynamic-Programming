@@ -41,6 +41,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
@@ -107,6 +108,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
@@ -147,4 +149,12 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
