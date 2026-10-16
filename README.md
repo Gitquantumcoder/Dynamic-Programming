@@ -48,6 +48,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0091-decode-ways](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
+| [0880-decoded-string-at-index](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0880-decoded-string-at-index) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Knapsack Problem
 |  |
@@ -157,4 +158,8 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Stack
+|  |
+| ------- |
+| [0880-decoded-string-at-index](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0880-decoded-string-at-index) |
 <!---LeetCode Topics End-->
