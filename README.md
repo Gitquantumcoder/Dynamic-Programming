@@ -40,6 +40,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1313-decompress-run-length-encoded-list) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
