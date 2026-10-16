@@ -50,6 +50,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0091-decode-ways](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0880-decoded-string-at-index](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0880-decoded-string-at-index) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Knapsack Problem
 |  |
@@ -68,6 +69,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Breadth-First Search
@@ -143,14 +145,17 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Indexed Tree
 |  |
 | ------- |
