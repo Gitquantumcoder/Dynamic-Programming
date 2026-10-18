@@ -35,6 +35,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
@@ -103,6 +104,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [1630-arithmetic-subarrays](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1630-arithmetic-subarrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -113,12 +115,14 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [1630-arithmetic-subarrays](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1630-arithmetic-subarrays) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
@@ -171,4 +175,12 @@ Solutions are organized by problem or topic as I work through them. The code is 
 |  |
 | ------- |
 | [0880-decoded-string-at-index](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0880-decoded-string-at-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
