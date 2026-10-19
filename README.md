@@ -44,6 +44,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0542-01-matrix](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0542-01-matrix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1313-decompress-run-length-encoded-list) |
 | [1630-arithmetic-subarrays](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1630-arithmetic-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -95,6 +96,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
@@ -108,6 +110,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0229-majority-element-ii) |
 | [1630-arithmetic-subarrays](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1630-arithmetic-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
