@@ -37,6 +37,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0403-frog-jump](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
@@ -87,6 +88,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
@@ -96,6 +98,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
@@ -191,4 +194,16 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | ------- |
 | [0169-majority-element](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
