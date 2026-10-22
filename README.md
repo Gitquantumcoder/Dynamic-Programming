@@ -56,6 +56,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0474-ones-and-zeroes](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0474-ones-and-zeroes) |
 | [0880-decoded-string-at-index](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0880-decoded-string-at-index) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Knapsack Problem
 |  |
@@ -75,6 +76,7 @@ Solutions are organized by problem or topic as I work through them. The code is 
 | [0113-path-sum-ii](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0494-target-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Gitquantumcoder/Dynamic-Programming/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Breadth-First Search
